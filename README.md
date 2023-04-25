@@ -1,4 +1,12 @@
-### Hi there 👋
+# Murillo Teixeira
+
+Hi, there! 
+
+I'm an Electrical Engineering student at Poli - USP currently doing a Double Degree in Biomedical Engineering at Técnico - ULisboa!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Murillo%20Teixeira-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murillo-teixeira/)](https://www.linkedin.com/in/murillo-teixeira/)
+[![Gmail Badge](https://img.shields.io/badge/-murillo.teixeira@usp.br-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murillo.teixeira@usp.br)](mailto:murillo.teixeira@usp.br)
+
 
 <!--
 **mhteixeira/mhteixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
