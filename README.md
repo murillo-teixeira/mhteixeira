@@ -2,7 +2,7 @@
 
 Hi, there! 
 
-I'm an Electrical Engineering student at Poli - USP currently doing a Double Degree in Biomedical Engineering at Técnico - ULisboa!
+I'm an Electrical Engineering student at [Poli - USP](https://www.poli.usp.br/) currently doing a Double Degree in Biomedical Engineering at [Técnico - ULisboa](https://tecnico.ulisboa.pt/en/)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Murillo%20Teixeira-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murillo-teixeira/)](https://www.linkedin.com/in/murillo-teixeira/)
 [![Gmail Badge](https://img.shields.io/badge/-murillo.teixeira@usp.br-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murillo.teixeira@usp.br)](mailto:murillo.teixeira@usp.br)
